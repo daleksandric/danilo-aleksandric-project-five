@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "69bebb6834c923591fd8eb68c42ce50f",
+    "revision": "5d30d351aaa8169cce70d6313409bb88",
     "url": "/danilo-aleksandric-project-five/index.html"
   },
   {
-    "revision": "481985bbcf99cf70910a",
+    "revision": "09637cf1e0d66e3b1b58",
     "url": "/danilo-aleksandric-project-five/static/css/main.1251fccb.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/danilo-aleksandric-project-five/static/js/2.ce4e64dc.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "481985bbcf99cf70910a",
-    "url": "/danilo-aleksandric-project-five/static/js/main.129eaba4.chunk.js"
+    "revision": "09637cf1e0d66e3b1b58",
+    "url": "/danilo-aleksandric-project-five/static/js/main.4ff403d9.chunk.js"
   },
   {
     "revision": "d3d1fc42e94e8239a058",

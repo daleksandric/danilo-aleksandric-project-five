@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/danilo-aleksandric-project-five/precache-manifest.8bb2172f6b70ccc4e299965b02402ab1.js"
+  "/danilo-aleksandric-project-five/precache-manifest.0ff182c2e4e62afa0abbbb22b1a5519e.js"
 );
 
 self.addEventListener('message', (event) => {
