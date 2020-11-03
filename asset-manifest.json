@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/danilo-aleksandric-project-five/static/css/main.1251fccb.chunk.css",
-    "main.js": "/danilo-aleksandric-project-five/static/js/main.4ff403d9.chunk.js",
-    "main.js.map": "/danilo-aleksandric-project-five/static/js/main.4ff403d9.chunk.js.map",
+    "main.js": "/danilo-aleksandric-project-five/static/js/main.129eaba4.chunk.js",
+    "main.js.map": "/danilo-aleksandric-project-five/static/js/main.129eaba4.chunk.js.map",
     "runtime-main.js": "/danilo-aleksandric-project-five/static/js/runtime-main.38053c98.js",
     "runtime-main.js.map": "/danilo-aleksandric-project-five/static/js/runtime-main.38053c98.js.map",
     "static/js/2.ce4e64dc.chunk.js": "/danilo-aleksandric-project-five/static/js/2.ce4e64dc.chunk.js",
     "static/js/2.ce4e64dc.chunk.js.map": "/danilo-aleksandric-project-five/static/js/2.ce4e64dc.chunk.js.map",
     "index.html": "/danilo-aleksandric-project-five/index.html",
-    "precache-manifest.0ff182c2e4e62afa0abbbb22b1a5519e.js": "/danilo-aleksandric-project-five/precache-manifest.0ff182c2e4e62afa0abbbb22b1a5519e.js",
+    "precache-manifest.8bb2172f6b70ccc4e299965b02402ab1.js": "/danilo-aleksandric-project-five/precache-manifest.8bb2172f6b70ccc4e299965b02402ab1.js",
     "service-worker.js": "/danilo-aleksandric-project-five/service-worker.js",
     "static/css/main.1251fccb.chunk.css.map": "/danilo-aleksandric-project-five/static/css/main.1251fccb.chunk.css.map",
     "static/js/2.ce4e64dc.chunk.js.LICENSE.txt": "/danilo-aleksandric-project-five/static/js/2.ce4e64dc.chunk.js.LICENSE.txt",
@@ -18,6 +18,6 @@
     "static/js/runtime-main.38053c98.js",
     "static/js/2.ce4e64dc.chunk.js",
     "static/css/main.1251fccb.chunk.css",
-    "static/js/main.4ff403d9.chunk.js"
+    "static/js/main.129eaba4.chunk.js"
   ]
 }
