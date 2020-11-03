@@ -57,7 +57,7 @@ class App extends Component {
         <h1>Can't find a game to play?</h1>
         <GenreSelect filterGameGenre = {this.filterGameGenre} />
         <div className="gameResultsContainer wrapper">
-        { this.state.isLoading ? <p>Loading youssssr games.</p> : this.state.gamesList.map(game => {
+        { this.state.isLoading ? <p>Loading your games.</p> : this.state.gamesList.map(game => {
           return (
             <GameResults key={game.id} gameName={game.name} videoFile={game?.clip?.clips[640]} backgroundImage={game.background_image}/>
           )
